@@ -6,4 +6,3 @@ function onKeyDownHandler(e) {
 }
 
 document.body.addEventListener('keydown', onKeyDownHandler)
-=
