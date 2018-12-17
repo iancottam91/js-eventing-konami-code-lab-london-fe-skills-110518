@@ -2,7 +2,7 @@
 
 // This is the function that would be invoked by the event listener.
 function onKeyDownHandler(e) {
-  console.log('hi');
+  console.log(e);
 }
 
 document.body.addEventListener('keydown', onKeyDownHandler)
